@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+can we go for a movie does every ine available.
+yes da we can go for movie.
+=======
+can we go for a movie does every ine available. 
+or can we go for a trip.
+>>>>>>> feature_branch
