@@ -1,2 +1,3 @@
 this is the feature 2.
 this feature is easily understandable by freshers
+the feature is stopped
